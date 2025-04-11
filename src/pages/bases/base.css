@@ -1,0 +1,13 @@
+.outlet {
+	width: 100vw;
+	height: 94vh;
+}
+
+.languageSelector {
+	width: 9em;
+}
+
+.MuiSelect-select {
+	padding: 10px !important;
+	padding-right: 30px !important;
+}
