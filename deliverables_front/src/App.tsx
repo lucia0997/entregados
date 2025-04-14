@@ -1,15 +1,13 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
-import Base from './pages/bases/base';
-import Login from './pages/login/login';
+import RequestReference from './pages/base/requestReference/requestReference';
 
 function App() {
   return (
     <>
       <BrowserRouter>
         <Routes>
-          <Route path='/login' element={<Login />} />
-          <Route path='/' element={<Base />} />
+          <Route path='/' element={<RequestReference />} />
         </Routes>
       </BrowserRouter>
     </>
