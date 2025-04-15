@@ -1,0 +1,5 @@
+{
+    "error": "error",
+    "loginError": "The username or password is incorrect.",
+    "persistentLoginError": "If the error persists, contact an administrator."
+}
