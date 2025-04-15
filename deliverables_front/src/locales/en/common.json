@@ -1,4 +1,6 @@
 {
     "title": "Deliverables Assistant",
-    "login": "Login"
+    "login": "Login",
+    "user": "User",
+    "password": "Password"
 }
