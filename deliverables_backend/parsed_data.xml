@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<informes>
+  <informe>
+    <referencia>ABC123</referencia>
+    <plantilla>basic_template.docx</plantilla>
+    <metadatos>
+      <nombre>Juan Pérez</nombre>
+      <asignatura>Matemáticas</asignatura>
+      <version>1.2</version>
+    </metadatos>
+    <resultados>
+      <fila>
+        <fecha>2025-04-01</fecha>
+        <actividad>Examen parcial</actividad>
+        <nota>8.5</nota>
+      </fila>
+      <fila>
+        <fecha>2025-04-08</fecha>
+        <actividad>Trabajo práctico</actividad>
+        <nota>9.0</nota>
+      </fila>
+      <fila>
+        <fecha>2025-04-15</fecha>
+        <actividad>Control sorpresa</actividad>
+        <nota>7.8</nota>
+      </fila>
+    </resultados>
+  </informe>
+
+  <informe>
+    <referencia>XYZ789</referencia>
+    <plantilla>basic_template.docx</plantilla>
+    <metadatos>
+      <nombre>Lucía Ramírez</nombre>
+      <asignatura>Historia</asignatura>
+      <version>2.0</version>
+    </metadatos>
+    <resultados>
+      <fila>
+        <fecha>2025-04-02</fecha>
+        <actividad>Ensayo</actividad>
+        <nota>7.0</nota>
+      </fila>
+      <fila>
+        <fecha>2025-04-10</fecha>
+        <actividad>Debate grupal</actividad>
+        <nota>8.2</nota>
+      </fila>
+    </resultados>
+  </informe>
+</informes>
