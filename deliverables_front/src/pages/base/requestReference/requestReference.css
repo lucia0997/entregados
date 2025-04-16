@@ -1,0 +1,13 @@
+.referenceContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 70vh;
+    gap: 1em;
+}
+
+.referenceInput{
+    width: 20em;
+}
